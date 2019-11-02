@@ -1,4 +1,4 @@
-## Week 2 - exercises 
+## Flow 1 Week 2 - exercises 
 
 ### Tuesday
 
