@@ -1,0 +1,54 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package entity;
+
+import java.util.List;
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+import javax.persistence.Query;
+import javax.persistence.TypedQuery;
+
+/**
+ *
+ * @author Joe
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        //open a database connection
+        //(create new database if it dosn't exists yet)
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("pu");
+        EntityManager em = emf.createEntityManager();
+
+        //store 1000 Points objects in the database
+        em.getTransaction().begin();
+        for (int i = 0; i < 1000; i++) {
+            Point p = new Point(i, i);
+            em.persist(p);
+        }
+        em.getTransaction().commit();
+
+        //Find the number of Point objects in the database
+        Query q1 = em.createQuery("SELECT COUNT(p) FROM Point p");
+        System.out.println("Total points: " + q1.getSingleResult());
+
+        //Find the average X value
+        Query q2 = em.createQuery("SELECT AVG(p.x) FROM Point p");
+        System.out.println("Average x: " + q2.getSingleResult());
+
+        //Retrive all the Point objects from the database
+        TypedQuery<Point> query = em.createQuery("SELECT p FROM Point p", Point.class);
+        List<Point> results = query.getResultList();
+        for (Point p : results) {
+            System.out.println(p);
+        }
+
+        //Close the database connection
+        em.close();
+        emf.close();
+    }
+}

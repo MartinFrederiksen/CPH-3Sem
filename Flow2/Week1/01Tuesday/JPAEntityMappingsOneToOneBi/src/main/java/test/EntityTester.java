@@ -1,0 +1,40 @@
+package test;
+
+import entities.Address;
+import entities.Customer;
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+/**
+ *
+ * @author Joe
+ */
+public class EntityTester {
+
+    public static void main(String[] args) {
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("pu");
+        EntityManager em = emf.createEntityManager();
+        
+        Customer c1 = new Customer("Martin", "Frederiksen");
+        Address a1 = new Address("BallerupBitch","2750");
+        c1.setAddress(new Address("Skodsborgvej", "2850"));
+        a1.setCustomer(new Customer("Andreas", "Vikke"));
+
+        Persistence.generateSchema("pu", null);        
+        
+        try {
+            em.getTransaction().begin();
+            em.persist(c1);
+            em.persist(a1);
+            em.getTransaction().commit();
+            
+            System.out.println(c1.getId());
+            System.out.println(a1.getId());
+
+        } finally {
+            em.close();
+        }
+    }
+
+}

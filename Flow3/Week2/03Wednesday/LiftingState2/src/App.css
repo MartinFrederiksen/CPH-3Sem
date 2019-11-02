@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.outer {
+  padding: 15px;
+  padding-bottom: 1em;
+}
+.allTodos {
+  font-size: 22px;
+  margin: 1px;
+  margin-left: 18px;
+  padding: 15px;
+}
+
+.new-todo {
+  padding: 15px;
+  margin-left:15px;
+}
+
+.center-img {
+  display: block;
+  margin: auto;
+}
