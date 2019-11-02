@@ -1,5 +1,4 @@
 # [Week1](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week1) (19/08-19 - 23/08-19)
-#### Intro + ORM/JPA/REST-part1
 Intro + ORM/JPA/REST-part1
 
 ##### Business Competences in this week
@@ -8,7 +7,6 @@ Intro + ORM/JPA/REST-part1
 
 
 # [Week2](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week2) (26/08-19 - 30/08-19)
-#### HTTP, Network, Nginx, SSL
 HTTP, Network, Nginx, SSL
 
 ##### Business competences
