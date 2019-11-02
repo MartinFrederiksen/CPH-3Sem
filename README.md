@@ -1,6 +1,6 @@
 
-# Intro and laying the foundation for the rest of the semester
-##### [Flow1](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1) (19/8-19 - 13/9-19)
+### [Flow1](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1) (19/8-19 - 13/9-19)
+#### Intro and laying the foundation for the rest of the semester
 This flow will introduce most of the technologies which we are going to use and build on for the rest of the semester.
 
 Topics will include:
