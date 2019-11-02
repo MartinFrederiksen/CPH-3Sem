@@ -2,23 +2,23 @@
 
 ### Tuesday
 
-[Callbacks and more](https://github.com/Krigermus/Week6/tree/master/01Tuesday/JavaScriptExercises2Day1) - solution completed!
+[Callbacks and more](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/01Tuesday/JavaScriptExercises2Day1) - solution completed!
 
 ### Wednesday
 
-[1. ES6 classes and Single Page Applications - No fetch()](https://github.com/Krigermus/Week6/tree/master/02Wednesday/ES6%20classes%20and%20Single%20Page%20Applications%20without%20Netbeans/ES6%20classes%20and%20Single%20Page%20Applications%20without%20Netbeans) - solution completed!
+[1. ES6 classes and Single Page Applications - No fetch()](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/02Wednesday/ES6%20classes%20and%20Single%20Page%20Applications%20without%20Netbeans/ES6%20classes%20and%20Single%20Page%20Applications%20without%20Netbeans) - solution completed!
 
-[2. Small application to display a quote of the hour](https://github.com/Krigermus/Week6/tree/master/02Wednesday/Fetch%20and%20Promises/SmallApplicationToDisplayAQuoteOfTheHour) - solution completed!
+[2. Small application to display a quote of the hour](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/02Wednesday/Fetch%20and%20Promises/SmallApplicationToDisplayAQuoteOfTheHour) - solution completed!
 
-[3. JS Event handling, HTML5 and inline SVG](https://github.com/Krigermus/Week6/tree/master/02Wednesday/JSEventhandlingHTML5AndInlineSVG/JSEventhandlingHTML5AndInlineSVG) - solution completed!
+[3. JS Event handling, HTML5 and inline SVG](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/02Wednesday/JSEventhandlingHTML5AndInlineSVG/JSEventhandlingHTML5AndInlineSVG) - solution completed!
 
-[4. Ajax with a full REST CRUD Endpoint and Error-handling](https://github.com/Krigermus/Week6/tree/master/02Wednesday/CreateASinglePageApplicationThatUsesOurCoolAPI/CreateASinglePageApplicationThatUsesOurCoolAPI) - solution completed! **Backend** - Given JsonServer.
+[4. Ajax with a full REST CRUD Endpoint and Error-handling](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/02Wednesday/CreateASinglePageApplicationThatUsesOurCoolAPI/CreateASinglePageApplicationThatUsesOurCoolAPI) - solution completed! **Backend** - Given JsonServer.
 
 ### Thursday
 
-[1. CORS with Java and Jax-rs](https://github.com/Krigermus/Week6/tree/master/03Thursday/SingleOriginPolicyAndCORSWithJavaAndJAX-RS) - solution completed!
+[1. CORS with Java and Jax-rs](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/03Thursday/SingleOriginPolicyAndCORSWithJavaAndJAX-RS) - solution completed!
 
-[2. CORS with Java and Jax-rs for a “real” project](https://github.com/Krigermus/Week6/tree/master/03Thursday/RealProjectErrorHandlingRestAssured/TheFrontend) - solution completed!
+[2. CORS with Java and Jax-rs for a “real” project](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/03Thursday/RealProjectErrorHandlingRestAssured/TheFrontend) - solution completed!
 
 [3. Deploy a SPA on separate Servers(Backend)](https://melif.dk/TheBackend/api/cors/all) - solution completed!
 
@@ -26,13 +26,13 @@
 
 ### Friday
 
-[Exam preparation exercise about AJAX, CORS and SVG](https://github.com/Krigermus/Week6/tree/master/04Friday/Svg/Svg) - solution completed! 
+[Exam preparation exercise about AJAX, CORS and SVG](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/04Friday/Svg/Svg) - solution completed! 
 
-[Exam preparation exercise about AJAX, CORS and SVG(Proxy)](https://github.com/Krigermus/Week6/tree/master/04Friday/SvgProxy/SvgProxy) - solution completed! 
+[Exam preparation exercise about AJAX, CORS and SVG(Proxy)](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/04Friday/SvgProxy/SvgProxy) - solution completed! 
 * **Deployed:** https://melif.dk/SvgProxy/proxy/country/dk
 <br>
 
-[Frontend exercise (last part of exercise from last week)](https://github.com/Krigermus/Week6/tree/master/04Friday/TheFrontend/TheFrontend) - solution completed! 
+[Frontend exercise (last part of exercise from last week)](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2/Week2/04Friday/TheFrontend/TheFrontend) - solution completed! 
 * **DeployedBackend:** https://melif.dk/ErrorHandlingRestAssured/api/person/all 
 * **DeployedFrontend:** http://meliflifperson.surge.sh/
 

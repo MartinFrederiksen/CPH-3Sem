@@ -2,15 +2,15 @@
 
 ### Tuesday
 
-[Paper](https://github.com/Krigermus/Week2/tree/master/01Tuesday/Fundamental%20Network%20Topics) - solution completed!
+[Paper](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week2/01Tuesday/Fundamental%20Network%20Topics) - solution completed!
 
 ### Wednesday
 
-[Paper](https://github.com/Krigermus/Week2/tree/master/02Wednesday/The%20HTTP%20Protocol) - solution completed!
+[Paper](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week2/02Wednesday/The%20HTTP%20Protocol) - solution completed!
 
-[Exercise 1-6](https://github.com/Krigermus/Week2/tree/master/02Wednesday/MonitoringHttpHeaders%20ex1-6/MonitoringHttpHeaders) - solution completed! 
+[Exercise 1-6](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week2/02Wednesday/MonitoringHttpHeaders%20ex1-6/MonitoringHttpHeaders) - solution completed! 
 
-[Exercise 7-8](https://github.com/Krigermus/Week2/tree/master/02Wednesday/CookeAndSessionDemo%20ex7-8/SessionAndCookies) - solution completed!
+[Exercise 7-8](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week2/02Wednesday/CookeAndSessionDemo%20ex7-8/SessionAndCookies) - solution completed!
 
 ### Thursday
 
@@ -18,4 +18,4 @@
 
 ### Friday
 
-[Final](https://github.com/Krigermus/Week2/tree/master/04Friday/Week2Final) - solution completed!
+[Final](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1/Week2/04Friday/Week2Final) - solution completed!
