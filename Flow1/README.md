@@ -22,3 +22,5 @@ CI and DevOps are rapidly growing sought-after skills (ref: it.jobindex.dk) This
 JavaScript is one of the most demanded programming skills. ref: it.jobindex.dk
 
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
+
+# [Week4(Ca1)](https://github.com/AndreasVikke/CPH-Business-CA-1) (09/09-19 - 13/09-19)
