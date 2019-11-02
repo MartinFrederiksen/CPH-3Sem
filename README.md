@@ -1,5 +1,5 @@
 
-# [Flow1](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1) (19/8-19 - 13/9-19)
+# [Flow1](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow1) (19/08-19 - 13/09-19)
 #### Intro and laying the foundation for the rest of the semester
 This flow will introduce most of the technologies which we are going to use and build on for the rest of the semester.
 
@@ -13,7 +13,7 @@ Topics will include:
 * An introduction to JavaScript (will continue in flow 2 and 3 (using React))
 
 
-# [Flow2](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2) (16/9-19 - 11/10-19)
+# [Flow2](https://github.com/MartinFrederiksen/CPH-3Sem/tree/master/Flow2) (16/09-19 - 11/10-19)
 #### ORM, Restful web services and SPA with JS
 In this flow we will dig deeper into ORM framework with JPA and look at relationships between Entities and more complex queries with JPQL. We will extend our knowledge about Rest with JAX-RS by implementing POST, PUT and DELETE methods along with the GET methods from last flow. Finally we will go much deeper into javascript and look at some of the new features from ES6 and onward. We will also look at how to build Single Page applications with Javascript.
 
